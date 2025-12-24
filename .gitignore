@@ -1,0 +1,45 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+.m2/
+
+# Build
+build/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+
+# Test Reports
+test-reports/
+target/surefire-reports/
+test-output/
+
+# Logs
+*.log
+logs/
+
+# Project
+.classpath
+.project
+.settings/
+*.iml
+out/
+
+# OS
+Thumbs.db
+.DS_Store
